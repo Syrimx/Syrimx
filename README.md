@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Syrimx
 - 👀 I’m interested in programming and mathematical concepts
 - 🌱 I’m currently learning Flask, deeper knowledge in Python and VueJs
-- 💞️ I’m looking to collaborate on interessting Projects.
+- 💞️ I’m looking to collaborate on interesting Projects.
 - 📫 How to reach me
 
 <!---
